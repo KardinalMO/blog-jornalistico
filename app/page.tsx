@@ -56,26 +56,26 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-8">
-              <h1 className="text-3xl font-bold tracking-tight">JORNAL DO LEO 69</h1>
+              <h1 className="text-3xl font-bold tracking-tight">THE TRIBE JOURNAL</h1>
               <nav className="hidden md:flex items-center gap-8">
                 <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-                  POLÍTICA
-                </a>
-                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-                  LIFESTYLE
-                </a>
-                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
-                  ESPORTES
-                </a>
-                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
                   CULTURA
+                </a>
+                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
+                  FUTEBOL
+                </a>
+                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
+                  GASTRONOMIA
+                </a>
+                <a href="#" className="text-white/80 hover:text-white transition-colors text-sm font-medium">
+                  MÚSICA
                 </a>
               </nav>
             </div>
             <div className="flex items-center gap-4">
               <button className="text-white/80 hover:text-white transition-colors text-sm font-medium">BUSCAR</button>
               <button className="bg-white text-black px-4 py-2 text-sm font-medium hover:bg-white/90 transition-colors">
-                SE INSCREVA
+                INSCREVA-SE
               </button>
             </div>
           </div>
@@ -162,66 +162,66 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-12">
           <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
-              <h4 className="font-bold mb-4">JORNAL DO LEO 69</h4>
+              <h4 className="font-bold mb-4">THE TRIBE JOURNAL</h4>
               <p className="text-white/60 text-sm">Jornalismo independente e digital.</p>
             </div>
             <div>
-              <h5 className="font-medium mb-4 text-white/80">Tópicos</h5>
+              <h5 className="font-medium mb-4 text-white/80">TÓPICOS</h5>
               <div className="space-y-2 text-sm">
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Política
+                  CULTURA
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Lifestyle
+                  FUTEBOL
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Esportes
+                  GASTRONOMIA
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Cultura
+                  MÚSICA
                 </a>
               </div>
             </div>
             <div>
-              <h5 className="font-medium mb-4 text-white/80">Sobre</h5>
+              <h5 className="font-medium mb-4 text-white/80">SOBRE</h5>
               <div className="space-y-2 text-sm">
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Nosso propósito
+                  NOSSO PROPÓSITO
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Nosso time
+                  NOSSO TIME
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Contato
+                  CONTATO
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Suporte
+                  SUPORTE
                 </a>
               </div>
             </div>
             <div>
-              <h5 className="font-medium mb-4 text-white/80">Redes Sociais</h5>
+              <h5 className="font-medium mb-4 text-white/80">REDES SOCIAIS</h5>
               <div className="space-y-2 text-sm">
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Threads
+                  THREADS
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  LinkedIn
+                  LINKEDIN
                 </a>
                 <a href="#" className="block text-white/60 hover:text-white transition-colors">
-                  Instagram
+                  INSTAGRAM
                 </a>
               </div>
             </div>
           </div>
           <div className="border-t border-white/10 pt-8 text-sm text-white/40 flex justify-between items-center">
             <div className="flex flex-col">
-              <p>© 2025 Jornal do Leo 69. Todos os direitos reservados a Leonardo Costa Teixeira.</p>
+              <p>© 2025 The Tribe Journal. Todos os direitos reservados a Leonardo Costa Teixeira.</p>
               <p>Desenvolvido por: Matheus Ollia e Gustavo Costa Teixeira.</p>
             </div>
             <div className="flex items-center gap-6">
-              <a href="#" className="hover:text-white/60 transition-colors">Privacidade</a>
-              <a href="#" className="hover:text-white/60 transition-colors">Termos</a>
+              <a href="#" className="hover:text-white/60 transition-colors">PRIVACIDADE</a>
+              <a href="#" className="hover:text-white/60 transition-colors">TERMOS</a>
             </div>
           </div>
 

@@ -5,8 +5,8 @@ import { GeistMono } from "geist/font/mono"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Journal - Independent Journalism",
-  description: "A minimalist platform for independent journalism and thoughtful reporting",
+  title: "The Tribe Journal",
+  description: "Jornalismo independente e digital.",
   generator: "v0.dev",
 }
 
